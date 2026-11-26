@@ -1,6 +1,6 @@
 {
-  "system_id": "support-assistant",
-  "intended_purpose": "Customer support chatbot that answers questions about orders and refunds",
+  "system_id": "hiring-screener",
+  "intended_purpose": "Rank and screen job applicants' CVs for recruitment",
   "compliance_target": "EU_AI_ACT",
   "high_risk_presumption": false,
   "commit_ref": "HEAD",
